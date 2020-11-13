@@ -10,3 +10,6 @@
 [submodule "st"]
 	path = st
 	url = ../st.git
+[submodule "Goblocks"]
+	path = Goblocks
+	url = https://github.com/Stargarth/Goblocks.git

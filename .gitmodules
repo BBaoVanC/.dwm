@@ -4,9 +4,6 @@
 [submodule "dwm"]
 	path = dwm
 	url = ../dwm.git
-[submodule "slstatus"]
-	path = slstatus
-	url = ../slstatus.git
 [submodule "st"]
 	path = st
 	url = ../st.git

@@ -1,12 +1,12 @@
 [submodule "dmenu"]
 	path = dmenu
-	url = ../dmenu.git
+	url = git@git.bbaovanc.com:bbaovanc/dmenu.git
 [submodule "dwm"]
 	path = dwm
-	url = ../dwm.git
+	url = git@git.bbaovanc.com:bbaovanc/dwm.git
 [submodule "st"]
 	path = st
-	url = ../st.git
+	url = git@git.bbaovanc.com:bbaovanc/st.git
 [submodule "Goblocks"]
 	path = Goblocks
 	url = https://github.com/Stargarth/Goblocks.git

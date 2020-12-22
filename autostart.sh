@@ -5,6 +5,7 @@ feh --no-fehbg --bg-fill ~/wallpaper
 nm-applet &
 picom -b
 light-locker &
-goblocks &
+dwmblocks &
+pulse_daemon.sh &
 
 echo UPDATESTARTUPTTY | gpg-connect-agent &

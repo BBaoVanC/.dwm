@@ -10,3 +10,6 @@
 [submodule "Goblocks"]
 	path = Goblocks
 	url = https://github.com/Stargarth/Goblocks.git
+[submodule "dwmblocks"]
+	path = dwmblocks
+	url = git@git.bbaovanc.com:bbaovanc/dwmblocks.git

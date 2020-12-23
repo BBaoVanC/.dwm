@@ -9,3 +9,5 @@ dwmblocks &  # start dwmblocks
 pulse.daemon &  # update dwmblocks when pulseaudio volume changes
 
 echo UPDATESTARTUPTTY | gpg-connect-agent &
+
+systemctl --user restart redshift &

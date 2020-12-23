@@ -6,6 +6,6 @@ nm-applet &  # networkmanager tray icon
 picom -b  # compositor (daemonized)
 light-locker &  # enable lightdm locking
 dwmblocks &  # start dwmblocks
-pulse_daemon.sh &  # update dwmblocks when pulseaudio volume changes
+pulse.daemon &  # update dwmblocks when pulseaudio volume changes
 
 echo UPDATESTARTUPTTY | gpg-connect-agent &

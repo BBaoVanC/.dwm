@@ -1,12 +1,12 @@
 [submodule "dmenu"]
 	path = dmenu
-	url = git@git.bbaovanc.com:bbaovanc/dmenu.git
+	url = git@github.com:BBaoVanC/dmenu.git
 [submodule "dwm"]
 	path = dwm
-	url = git@git.bbaovanc.com:bbaovanc/dwm.git
+	url = git@github.com:BBaoVanC/dwm.git
 [submodule "st"]
 	path = st
-	url = git@git.bbaovanc.com:bbaovanc/st.git
+	url = git@github.com:BBaoVanC/st.git
 [submodule "dwmblocks"]
 	path = dwmblocks
-	url = git@git.bbaovanc.com:bbaovanc/dwmblocks.git
+	url = git@github.com:BBaoVanC/dwmblocks.git

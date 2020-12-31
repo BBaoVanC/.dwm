@@ -1,12 +1,16 @@
 [submodule "dmenu"]
 	path = dmenu
 	url = git@github.com:BBaoVanC/dmenu.git
+	branch = master
 [submodule "dwm"]
 	path = dwm
 	url = git@github.com:BBaoVanC/dwm.git
+	branch = master
 [submodule "st"]
 	path = st
 	url = git@github.com:BBaoVanC/st.git
+	branch = master
 [submodule "dwmblocks"]
 	path = dwmblocks
 	url = git@github.com:BBaoVanC/dwmblocks.git
+	branch = master

@@ -5,3 +5,6 @@
 [submodule "dwm-flexipatch"]
 	path = dwm-flexipatch
 	url = git@github.com:BBaoVanC/dwm-flexipatch.git
+[submodule "dwmblocks"]
+	path = dwmblocks
+	url = git@github.com:BBaoVanC/dwmblocks.git
